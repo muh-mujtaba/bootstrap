@@ -21,13 +21,24 @@
 }
 .left_top p{
     width: 70%;
+    color: gray;
 }
 .right_top{
     width: 40%;
 }
 .right_top h1{
 font-size: 25px;
+font-weight: 700;
+color: #F09B03;
 }
 .right_top p{
 width: 100%;
+color: gray;
+}
+
+form{
+    background-color: rgb(209, 209, 209);
+}
+.contact>div{
+    margin: 7px 0px;
 }
