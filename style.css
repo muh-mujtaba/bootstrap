@@ -1,4 +1,7 @@
-/* #lf_head{
+.top_border{
+    height: 2vh;
+}
+#lf_head{
     background-color: #365140;
 }
 #md_head{
@@ -6,4 +9,25 @@
 }
 #rt_head{
     background-color: #F09B03;
-} */
+}
+.nav_top{
+    background-color: #F3FCFB;
+}
+.left_top{
+    width: 40%;
+}
+.left_top img{
+    width: 40%;
+}
+.left_top p{
+    width: 70%;
+}
+.right_top{
+    width: 40%;
+}
+.right_top h1{
+font-size: 25px;
+}
+.right_top p{
+width: 100%;
+}
